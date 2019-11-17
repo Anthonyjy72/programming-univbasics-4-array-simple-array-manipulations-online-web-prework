@@ -15,3 +15,6 @@ dog_breeds = ["Great Dane", "Golden Retriever", "Chihuahua", "Shiba Inu"]
   dog_breeds.pop(2)
 end
 
+my_favorite_cities = ["Lagos", "Cape Town", "Nairobi", "San Francisco", "Gaborone", "New York", "Berlin", "London"]
+  my_favorite_cities.shift
+end

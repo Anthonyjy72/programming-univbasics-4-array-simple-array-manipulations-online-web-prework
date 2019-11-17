@@ -19,3 +19,7 @@ my_favorite_cities = ["Lagos", "Cape Town", "Nairobi", "San Francisco", "Gaboron
   my_favorite_cities.shift
 end
 
+ice_cream_brands = ["Blue Bell Creameries", "Ben & Jerry's", "Baskin Robbins", "Braum's", "Breyer's"]
+  ice_cream_brands.shift(2)
+end
+

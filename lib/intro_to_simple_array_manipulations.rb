@@ -3,3 +3,4 @@ colors_in_the_rainbow = ["red", "orange", "yellow", "green", "blue", "indigo"]
 p colors_in_the_rainbow
 end
 
+bouroughs_in_nyc = ["Brooklyn", "Queens", "Manhattan", "Bronx"]

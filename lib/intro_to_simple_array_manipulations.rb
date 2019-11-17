@@ -7,3 +7,6 @@ bouroughs_in_nyc = ["Brooklyn", "Queens", "Manhattan", "Bronx"]
   bouroughs_in_nyc.unshift("Staten Island")
 end
 
+continents = ["Africa", "Asia", "Europe", "North America", "South America", "Oceania", "Antarctica"]
+  continents.pop
+end

@@ -40,3 +40,7 @@ instruments = ["Saxophone", ["Piano", "Trumpet"], "Violin", "Drums", "Flute"]
   instruments.flatten
 end
 
+instructors = ["Josh", "Steven", "Sophie", "Steven", "Amanda", "Steven"]
+  instructors.delete("Steven")
+end
+

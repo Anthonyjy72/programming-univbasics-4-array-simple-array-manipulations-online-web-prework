@@ -4,4 +4,6 @@ p colors_in_the_rainbow
 end
 
 bouroughs_in_nyc = ["Brooklyn", "Queens", "Manhattan", "Bronx"]
-  bouroughs_in_nyc.unshift("Statan Islnad")
+  bouroughs_in_nyc.unshift("Staten Island")
+end
+

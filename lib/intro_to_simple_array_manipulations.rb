@@ -32,3 +32,6 @@ list_of_programming_languages = ["Ruby", "JavaScript", "Java", "C#", "Objective 
   list_of_programming_languages.insert(4, another_language)
 end
 
+haircuts = ["Pixie", "Bob", "Mohawk", "Crew Cut", "Linka", "Wheeler", "Bob"]
+  haircuts.uniq
+end

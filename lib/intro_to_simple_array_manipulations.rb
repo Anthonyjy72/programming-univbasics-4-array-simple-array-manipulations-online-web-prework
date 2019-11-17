@@ -23,3 +23,5 @@ ice_cream_brands = ["Blue Bell Creameries", "Ben & Jerry's", "Baskin Robbins", "
   ice_cream_brands.shift(2)
 end
 
+my_favorite_things = ["raindrops on roses", "whiskers on kittens"]
+    more_favs = ["sports cars", "flatiron school"]
